@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshita Varyani</h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Scalable+Web+Applications;Backend+Enthusiast+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Turning+ideas+into+scalable+products;Backend+driven+mindset+%F0%9F%9A%80" />
   </a>
 </h3>
 
@@ -78,7 +78,9 @@
 
 ---
 
-### ⚡ Fun Line
+### ⚡ Fun Stuff
 <p align="center">
-  <i>"I enjoy building systems that not only work, but scale 🚀"</i>
+  <i>"I enjoy debugging more than writing code sometimes — because that's where real learning happens 🧠"</i>
+  <br/><br/>
+  <i>Fun fact: I naturally think in backend flows even when designing UI 😄</i>
 </p>
